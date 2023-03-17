@@ -172,7 +172,9 @@ $breakpoints: (
 
 img {
   // make images block level elements
+  display: block;
   // make images responsive
+  max-width: 100%;
 }
 
 /*---------------------------------------/*
